@@ -14,11 +14,11 @@ Prueba 3
 https://github.com/Alexis2chl
 ![MEDALLAS GIT](https://github.com/user-attachments/assets/c76c75e0-d30c-484f-a228-96aec62c6cd0)
 
-4. 
-5. Cuenta Linkedin
+3. Cuenta Linkedin
 
+XXXXXXXXXXXXXXXXXXXX
 
-7. Curso Microsot Learns
+4. Curso Microsot Learns
 
 Curso introduccion a git 
 https://learn.microsoft.com/api/achievements/share/es-es/alexiscarimanfigueroa-0733/ESUXSGUP?sharingId=7211CBE55A354D52
@@ -37,4 +37,6 @@ Introduccion a  Git Hub Copilot
 ![Introduccion github copilot](https://github.com/user-attachments/assets/4cbc9d70-80fd-4c82-b950-17515fdb7e97)
 https://learn.microsoft.com/api/achievements/share/es-es/alexiscarimanfigueroa-0733/FVTDGNNX?sharingId=7211CBE55A354D52
 
-Creacion de Portfolio 
+5 Creacion de Portfolio 
+
+XXXXXXXXXXXXXXXXXXXX
