@@ -28,13 +28,13 @@ Curso introduccion a Git Hub
 https://learn.microsoft.com/es-es/users/alexiscarimanfigueroa-0733/achievements/dcnzlwpj  
 ![Intro a git hub](https://github.com/user-attachments/assets/ef669947-a2b5-4507-9a9a-999976af5944)
 
-Introduccion a GitHub Copilot 
+Introduccion a GitHub Copilot + Python 
 https://learn.microsoft.com/es-es/users/alexiscarimanfigueroa-0733/achievements/3r4etkth
 ![COPILOT + PYTHON](https://github.com/user-attachments/assets/92537624-8bd2-4346-a69f-088b37265615)
 
 
-Introduccion a  Git Hub Copilot + Python 
-![COPILOT + PYTHON](https://github.com/user-attachments/assets/b0d0c03d-f87e-4496-baff-f728112263f9)
-
+Introduccion a  Git Hub Copilot
+![Introduccion github copilot](https://github.com/user-attachments/assets/4cbc9d70-80fd-4c82-b950-17515fdb7e97)
+https://learn.microsoft.com/api/achievements/share/es-es/alexiscarimanfigueroa-0733/FVTDGNNX?sharingId=7211CBE55A354D52
 
 Creacion de Portfolio 
